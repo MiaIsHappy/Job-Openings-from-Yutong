@@ -7,6 +7,9 @@ Plug and Play Tech Center is a renowned global innovation platform and early-sta
 https://jobs.ashbyhq.com/pear
 Pear VC is a leading early-stage venture capital firm that invests in and supports promising startups, focusing on pre-seed and seed stages across various technology sectors. These are all the job openings from Pear VC's portfolio companies or accelerator program
 
+https://www.ventureloop.com/skydeck/
+Berkeley SkyDeck is UC Berkeley's official startup accelerator that helps Cal entrepreneurs and transformational startups by providing access to job opportunities, resources, and support for innovative ventures across various industries including biotech, fintech, and data science
+
 https://www.lmnt.com/careers
 LMNT provides cutting-edge text-to-speech and AI voice technology, offering ultrafast conversion, lifelike voice generation, and voice cloning services for diverse applications in marketing, gaming, and content creation. The company was at the Berkeley Hackathon for hiring.
 
@@ -20,4 +23,5 @@ https://www.twilio.com/en-us/company/jobs
 Twilio is a cloud communications platform that provides developers with APIs and tools to integrate voice, video, messaging, and authentication capabilities into their applications, enabling businesses to build personalized customer engagement solutions across various channels.
 
 https://boards.greenhouse.io/humeai
+Hume AI is a New York-based research lab and technology company that has developed the world's first conversational AI with emotional intelligence, called Empathic Voice Interface (EVI), which can understand and respond to nuanced vocal expressions with empathy and accuracy
 
