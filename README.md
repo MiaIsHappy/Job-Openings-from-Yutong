@@ -3,7 +3,7 @@ I aim to gather all the job openings I come across, to assist others in identify
 
 # Job listing from VC
 https://jobs.tlv.partners/jobs
-TLV Partners is an early-stage Israeli venture capital firm that invests in innovative startups, primarily at seed and Series A stages, across various technology sectors. Investment stage: They primarily invest in seed and Series A rounds, typically ranging from $2-$8 million.
+TLV Partners is an early-stage venture capital firm that invests in innovative startups, primarily at seed and Series A stages, across various technology sectors. Investment stage: They primarily invest in seed and Series A rounds, typically ranging from $2-$8 million.
 
 https://www.plugandplaytechcenter.com/jobs/
 Plug and Play Tech Center is a renowned global innovation platform and early-stage investor that operates across multiple industries, connecting startups with corporate partners and venture capital firms to accelerate technological innovation, facilitate business growth, and drive digital transformation through its extensive network of accelerator programs, corporate innovation services, and venture capital investments.
