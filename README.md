@@ -17,11 +17,10 @@ Berkeley SkyDeck is UC Berkeley's official startup accelerator that helps Cal en
 https://pitango.getro.com/jobs
 Pitango is Israel's largest venture capital firm, founded in 1993, managing over $2.8 billion across multiple funds and investing in innovative startups worldwide across various technology sectors.
 
+# Job listing I came across at events
 https://www.lmnt.com/careers
 LMNT provides cutting-edge text-to-speech and AI voice technology, offering ultrafast conversion, lifelike voice generation, and voice cloning services for diverse applications in marketing, gaming, and content creation. The company was at the Berkeley Hackathon for hiring.
 
-
-# Job listing I came across at events
 https://jobs.ashbyhq.com/youdotcom
 You.com is an AI-powered platform that combines a personalized search engine with advanced AI tools for chat, content creation, and image generation, offering users a comprehensive suite of features for information retrieval, productivity, and creative tasks. The company sponsored the Berkeley Hackathon.
 
