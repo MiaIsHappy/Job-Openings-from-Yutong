@@ -18,6 +18,10 @@ https://pitango.getro.com/jobs
 Pitango is Israel's largest venture capital firm, founded in 1993, managing over $2.8 billion across multiple funds and investing in innovative startups worldwide across various technology sectors.
 
 # Job listing I came across at events
+https://www.complexchaos.ai/careers
+Complexchaos is hiring four roles in the Bay Area (no relocations) 
+Associate Chief of Staff, Founding Engineer (Applied Math), Founding Senior Applied AI Engineer, Founding Product Manager, Founding Product Designer.
+
 https://www.lmnt.com/careers
 LMNT provides cutting-edge text-to-speech and AI voice technology, offering ultrafast conversion, lifelike voice generation, and voice cloning services for diverse applications in marketing, gaming, and content creation. The company was at the Berkeley Hackathon for hiring.
 
